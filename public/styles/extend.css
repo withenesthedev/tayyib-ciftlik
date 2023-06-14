@@ -26,6 +26,10 @@
     }
 }
 
+.footer-logo {
+    height: 100px;
+}
+
 .icon-round-center {
     border-radius: 100%;
     width: 68px;
@@ -34,8 +38,4 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.footer-logo {
-    height: 100px;
 }
