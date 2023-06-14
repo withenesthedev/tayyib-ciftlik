@@ -1,0 +1,1 @@
+export { default as IndexPageSectionAbout } from "./IndexPageSectionAbout.astro"
