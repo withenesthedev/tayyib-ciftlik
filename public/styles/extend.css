@@ -38,3 +38,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.container-brand::before {
+    content: "";
+    background: url('/media/logo.webp') no-repeat;
+    background-size: 50% 50%;
+    background-position: center center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .05;
+}
